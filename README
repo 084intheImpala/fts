@@ -1,0 +1,10 @@
+# Requirements
+
+You need to install:
+
+* pandas
+* matplotlib
+* numpy
+* scipy
+
+If you have Anaconda, this is all default :)

@@ -8,7 +8,6 @@ import os
 # for copper:
 ka1 = 1.54059
 ka2 = 1.54443
-ka = ka1
 kb = 1.39223
 
 # bragg's law
